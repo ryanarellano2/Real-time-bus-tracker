@@ -2,4 +2,4 @@
 
 Map animation
 
-![Real time bus tracker](./)
+![Real time bus tracker](./images/map.png)
